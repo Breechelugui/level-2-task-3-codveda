@@ -1,0 +1,27 @@
+{
+  "name": "level-2-task-3-codveda",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js",
+    "dev": "node --watch app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Breechelugui/level-2-task-3-codveda.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Breechelugui/level-2-task-3-codveda/issues"
+  },
+  "homepage": "https://github.com/Breechelugui/level-2-task-3-codveda#readme",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.4.1"
+  }
+}
